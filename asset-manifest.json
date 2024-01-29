@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Global-Gastronomy-Hub/static/css/main.b3867eb0.css",
+    "main.js": "/Global-Gastronomy-Hub/static/js/main.9ada9ec7.js",
+    "index.html": "/Global-Gastronomy-Hub/index.html",
+    "main.b3867eb0.css.map": "/Global-Gastronomy-Hub/static/css/main.b3867eb0.css.map",
+    "main.9ada9ec7.js.map": "/Global-Gastronomy-Hub/static/js/main.9ada9ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3867eb0.css",
+    "static/js/main.9ada9ec7.js"
+  ]
+}
